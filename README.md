@@ -1,4 +1,4 @@
-# [Nexus-Hub] (http://nexus-hub.it/repo)
+# [Nexus-Hub](http://nexus-hub.it/repo)
 
 Nexus-Hub repo for jailbroken users
 

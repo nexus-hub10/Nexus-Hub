@@ -1,4 +1,5 @@
-# Nexus-Hub
+# [Nexus-Hub] (http://nexus-hub.it/repo)
+
 Nexus-Hub repo for jailbroken users
 
 Welcome to our jailbroken repo where you can find cool tweaks and apps.

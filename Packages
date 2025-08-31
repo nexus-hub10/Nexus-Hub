@@ -1,16 +1,35 @@
-Package: it.nexus-hub.silentbanner
-Version: 1.0.1
+Package: it.nexus-hub.shiftoff
+Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: xemaz
-Installed-Size: 208
+Maintainer: XEmaz
+Installed-Size: 52
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/it.nexus-hub.silentbanner_1.0.1-1+debug_iphoneos-arm.deb
-Size: 13734
-MD5sum: 2d5d2772e8c7ae755a60e303bbffbb12
-SHA1: 43253d44ed0d84452ffeb41faf263f3adcec3986
-SHA256: 01c133d5e93a5be77cd4cd55291f1b0a85bcb1188096667cfb4eafaac2dbc5f4
+Filename: ./debs/it.nexus-hub.shiftoff_1.0-1_iphoneos-arm.deb
+Size: 2306
+MD5sum: d41838fb4e705110c28971308b3320c6
+SHA1: 1ce19570db86cd9d3d36f37b778c9c1bc157b356
+SHA256: da6e6e34b4ac80d1e0a85f67ac2bb4b7ea9fa15a9448618f06b2d93dae3f5ad2
 Section: Tweaks
-Description: A minimal banner that gets your attention without getting in your way
-Author: xemaz
-Name: SilentBanner
+Description: Never starts your mobile texts with automated capital letters again
+Author: XEmaz
+Name: ShiftOff
+Icon: ./icons/ShiftOff.png
+
+Package: it.nexus-hub.shiftoff15-16
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: XEmaz
+Installed-Size: 200
+Depends: ellekit (>= 0.9.5000)
+Filename: ./debs/it.nexus-hub.shiftoff15-16_1.0-1_iphoneos-arm64.deb
+Size: 3188
+MD5sum: d15cb54361990dadf2088116c90d7661
+SHA1: fe290eee42b088ad5837a42996791ebf4f853ead
+SHA256: d6d15a8930aa5d07e1c028caa93153e54ce387791cf9cba4236498bdb8fbb6cf
+Section: Tweaks
+Description: Never starts your mobile texts with automated capital letters again
+Author: XEmaz
+Name: ShiftOff 15-16
+Icon: ./icons/ShiftOff.png
+
 
